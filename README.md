@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error related to improper null handling and its solution. The `bug.js` file showcases the buggy code, while `bugSolution.js` provides a corrected version.  The issue arises when the function `foo` receives null arguments. The improved solution incorporates better null checks.
